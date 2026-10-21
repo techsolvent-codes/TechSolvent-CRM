@@ -1,0 +1,264 @@
+[
+  {
+    "id": "INV-000001",
+    "invoiceNumber": "INV-2026-001",
+    "clientId": "CLI-000001",
+    "clientName": "Nexus Payments Ltd",
+    "issueDate": "2026-09-01",
+    "dueDate": "2026-09-15",
+    "subtotal": 250000,
+    "taxRate": 18,
+    "taxAmount": 45000,
+    "total": 295000,
+    "paidAmount": 295000,
+    "balanceDue": 0,
+    "status": "paid",
+    "items": [
+      {
+        "description": "Milestone 1 & 2: Mobile App Wireframing, Architecture & Core Auth APIs",
+        "quantity": 1,
+        "rate": 250000,
+        "amount": 250000
+      }
+    ],
+    "notes": "Paid in full via RTGS transfer on 23-Sep-2026.",
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-23T10:30:00.000Z"
+  },
+  {
+    "id": "INV-000002",
+    "invoiceNumber": "INV-2026-002",
+    "clientId": "CLI-000002",
+    "clientName": "Aura Retail Group",
+    "issueDate": "2026-09-10",
+    "dueDate": "2026-09-30",
+    "subtotal": 180000,
+    "taxRate": 18,
+    "taxAmount": 32400,
+    "total": 212400,
+    "paidAmount": 100000,
+    "balanceDue": 112400,
+    "status": "sent",
+    "items": [
+      {
+        "description": "Phase 1: E-Commerce Storefront Architecture & Product Catalogue Engine",
+        "quantity": 1,
+        "rate": 180000,
+        "amount": 180000
+      }
+    ],
+    "notes": "Partial deposit of ₹1,00,000 received. Balance due by 30-Sep-2026.",
+    "createdAt": "2026-09-10T11:00:00.000Z",
+    "updatedAt": "2026-09-18T14:15:00.000Z"
+  },
+  {
+    "id": "INV-000003",
+    "invoiceNumber": "INV-2026-003",
+    "clientId": "CLI-000003",
+    "clientName": "PulseCare Health Systems",
+    "issueDate": "2026-08-15",
+    "dueDate": "2026-08-30",
+    "subtotal": 150000,
+    "taxRate": 18,
+    "taxAmount": 27000,
+    "total": 177000,
+    "paidAmount": 0,
+    "balanceDue": 177000,
+    "status": "overdue",
+    "items": [
+      {
+        "description": "Patient EHR Security Hardening & Penetration Testing",
+        "quantity": 1,
+        "rate": 150000,
+        "amount": 150000
+      }
+    ],
+    "notes": "Reminder email dispatched. Awaiting hospital finance clearance.",
+    "createdAt": "2026-08-15T12:00:00.000Z",
+    "updatedAt": "2026-09-23T08:00:00.000Z"
+  },
+  {
+    "id": "INV-000004",
+    "invoiceNumber": "INV-2026-004",
+    "clientId": "CLI-000004",
+    "clientName": "Zenith EdTech Learning",
+    "issueDate": "2026-09-20",
+    "dueDate": "2026-10-05",
+    "subtotal": 300000,
+    "taxRate": 18,
+    "taxAmount": 54000,
+    "total": 354000,
+    "paidAmount": 0,
+    "balanceDue": 354000,
+    "status": "sent",
+    "items": [
+      {
+        "description": "Interactive Course LMS Portal & Video Hosting Integration",
+        "quantity": 1,
+        "rate": 300000,
+        "amount": 300000
+      }
+    ],
+    "notes": "50% upfront project initiation invoice.",
+    "createdAt": "2026-09-20T15:00:00.000Z",
+    "updatedAt": "2026-09-23T17:38:41.886Z",
+    "sentAt": "2026-09-23T17:38:41.886Z"
+  },
+  {
+    "clientId": "CLI-000003",
+    "clientName": "PulseCare Health Systems",
+    "items": [
+      {
+        "description": "web",
+        "quantity": 1,
+        "rate": 100000
+      },
+      {
+        "description": "test",
+        "quantity": 1,
+        "rate": 75000
+      }
+    ],
+    "subtotal": 175000,
+    "gstRate": 18,
+    "gstAmount": 31500,
+    "total": 206500,
+    "dueDate": "2026-10-18",
+    "notes": "",
+    "status": "sent",
+    "paidAmount": 0,
+    "createdBy": "USR-000004",
+    "id": "INV-000005",
+    "createdAt": "2026-09-23T17:38:11.403Z",
+    "updatedAt": "2026-09-23T17:38:35.701Z",
+    "sentAt": "2026-09-23T17:38:35.701Z"
+  },
+  {
+    "invoiceNumber": "INV-2026-005",
+    "clientId": "CLI-000001",
+    "clientName": "Nexus Payments Ltd",
+    "projectId": null,
+    "issueDate": "2026-10-01",
+    "dueDate": "2026-10-16",
+    "subtotal": 75000,
+    "taxRate": 18,
+    "gstRate": 18,
+    "taxAmount": 13500,
+    "gstAmount": 13500,
+    "total": 88500,
+    "paidAmount": 0,
+    "balanceDue": 88500,
+    "status": "pending",
+    "isRecurring": true,
+    "recurringServiceId": "REC-000001",
+    "items": [
+      {
+        "description": "Full-Stack Web & Cloud Maintenance Retainer - Monthly Retainer Agreement",
+        "quantity": 1,
+        "rate": 75000,
+        "amount": 75000
+      }
+    ],
+    "notes": "Automatically generated on 2026-10-10 for monthly retainer agreement (Full-Stack Web & Cloud Maintenance Retainer).",
+    "createdBy": "SYSTEM",
+    "id": "INV-000006",
+    "createdAt": "2026-10-10T12:26:04.922Z",
+    "updatedAt": "2026-10-10T12:26:04.922Z"
+  },
+  {
+    "invoiceNumber": "INV-2026-006",
+    "clientId": "CLI-000002",
+    "clientName": "Aura Retail Group",
+    "projectId": null,
+    "issueDate": "2026-10-05",
+    "dueDate": "2026-10-20",
+    "subtotal": 60000,
+    "taxRate": 18,
+    "gstRate": 18,
+    "taxAmount": 10800,
+    "gstAmount": 10800,
+    "total": 70800,
+    "paidAmount": 0,
+    "balanceDue": 70800,
+    "status": "pending",
+    "isRecurring": true,
+    "recurringServiceId": "REC-000002",
+    "items": [
+      {
+        "description": "SEO Growth, Analytics & Content Engine - Monthly Retainer Agreement",
+        "quantity": 1,
+        "rate": 60000,
+        "amount": 60000
+      }
+    ],
+    "notes": "Automatically generated on 2026-10-10 for monthly retainer agreement (SEO Growth, Analytics & Content Engine).",
+    "createdBy": "SYSTEM",
+    "id": "INV-000007",
+    "createdAt": "2026-10-10T12:26:04.934Z",
+    "updatedAt": "2026-10-10T12:26:04.934Z"
+  },
+  {
+    "invoiceNumber": "INV-2026-007",
+    "clientId": "CLI-000003",
+    "clientName": "PulseCare Health Systems",
+    "projectId": "PROJ-000003",
+    "issueDate": "2026-10-10",
+    "dueDate": "2026-10-25",
+    "subtotal": 45000,
+    "taxRate": 18,
+    "gstRate": 18,
+    "taxAmount": 8100,
+    "gstAmount": 8100,
+    "total": 53100,
+    "paidAmount": 0,
+    "balanceDue": 53100,
+    "status": "pending",
+    "isRecurring": true,
+    "recurringServiceId": "REC-000004",
+    "items": [
+      {
+        "description": "Automated Growth Marketing Retainer - Monthly Retainer Agreement",
+        "quantity": 1,
+        "rate": 45000,
+        "amount": 45000
+      }
+    ],
+    "notes": "Automatically generated on 2026-10-10 for monthly retainer agreement (Automated Growth Marketing Retainer).",
+    "createdBy": "SYSTEM",
+    "id": "INV-000008",
+    "createdAt": "2026-10-10T12:35:31.768Z",
+    "updatedAt": "2026-10-10T12:35:31.768Z"
+  },
+  {
+    "invoiceNumber": "INV-2026-008",
+    "clientId": "CLI-000003",
+    "clientName": "PulseCare Health Systems",
+    "projectId": "PROJ-000003",
+    "issueDate": "2026-10-10",
+    "dueDate": "2026-10-25",
+    "subtotal": 45000,
+    "taxRate": 18,
+    "gstRate": 18,
+    "taxAmount": 8100,
+    "gstAmount": 8100,
+    "total": 53100,
+    "paidAmount": 0,
+    "balanceDue": 53100,
+    "status": "pending",
+    "isRecurring": true,
+    "recurringServiceId": "REC-000005",
+    "items": [
+      {
+        "description": "Automated Growth Marketing Retainer - Monthly Retainer Agreement",
+        "quantity": 1,
+        "rate": 45000,
+        "amount": 45000
+      }
+    ],
+    "notes": "Automatically generated on 2026-10-10 for monthly retainer agreement (Automated Growth Marketing Retainer).",
+    "createdBy": "USR-000001",
+    "id": "INV-000009",
+    "createdAt": "2026-10-10T12:35:44.763Z",
+    "updatedAt": "2026-10-10T12:35:44.763Z"
+  }
+]

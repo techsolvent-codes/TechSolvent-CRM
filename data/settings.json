@@ -1,0 +1,15 @@
+[
+  {
+    "companyName": "TECHSOLVENT",
+    "companyEmail": "info@techsolvent.com",
+    "companyPhone": "+91-9876543200",
+    "timezone": "Asia/Kolkata",
+    "currency": "INR",
+    "gstRate": 18,
+    "workingHoursPerDay": 8,
+    "lateLoginThresholdMinutes": 30,
+    "id": "SETTINGS",
+    "createdAt": "2026-09-23T17:03:13.215Z",
+    "updatedAt": "2026-09-23T17:03:13.215Z"
+  }
+]

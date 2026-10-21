@@ -1,0 +1,54 @@
+[
+  {
+    "id": "EXP-000001",
+    "title": "AWS Cloud Hosting Cluster - September",
+    "category": "software",
+    "amount": 34500,
+    "date": "2026-09-15",
+    "paymentMethod": "company_card",
+    "incurredBy": "Super Admin",
+    "status": "approved",
+    "description": "Production server clusters, S3 asset buckets, RDS database and CloudFront distribution charges.",
+    "createdAt": "2026-09-15T10:00:00.000Z",
+    "updatedAt": "2026-09-15T10:00:00.000Z"
+  },
+  {
+    "id": "EXP-000002",
+    "title": "Figma Enterprise Design Team Seats",
+    "category": "software",
+    "amount": 24000,
+    "date": "2026-09-10",
+    "paymentMethod": "company_card",
+    "incurredBy": "Rahul Sharma",
+    "status": "approved",
+    "description": "Annual renewal for UI/UX product design collaboration licences.",
+    "createdAt": "2026-09-10T11:00:00.000Z",
+    "updatedAt": "2026-09-10T11:00:00.000Z"
+  },
+  {
+    "id": "EXP-000003",
+    "title": "Client Discovery Lunch with Nexus Payments VP",
+    "category": "travel",
+    "amount": 4850,
+    "date": "2026-09-21",
+    "paymentMethod": "personal_reimbursement",
+    "incurredBy": "Priya Singh",
+    "status": "pending",
+    "description": "Business meeting at Cyber Hub to discuss Q4 roadmap and contract expansion.",
+    "createdAt": "2026-09-21T15:30:00.000Z",
+    "updatedAt": "2026-09-21T15:30:00.000Z"
+  },
+  {
+    "id": "EXP-000004",
+    "title": "Ergonomic Ultra-wide Monitor for Engineering",
+    "category": "hardware",
+    "amount": 28000,
+    "date": "2026-09-22",
+    "paymentMethod": "company_card",
+    "incurredBy": "Rahul Sharma",
+    "status": "pending",
+    "description": "LG 34-inch display upgrade for project architecture and multi-repo review.",
+    "createdAt": "2026-09-22T14:00:00.000Z",
+    "updatedAt": "2026-09-22T14:00:00.000Z"
+  }
+]

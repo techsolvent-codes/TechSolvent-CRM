@@ -1,0 +1,71 @@
+[
+  {
+    "id": "ACT-000001",
+    "leadId": "LEAD-000001",
+    "clientId": "CLI-000001",
+    "type": "call",
+    "title": "Discovery Call with CTO",
+    "description": "Reviewed cloud infrastructure requirements and microservices architecture.",
+    "performedBy": "EMP-000003",
+    "performedByName": "Priya Singh",
+    "date": "2026-09-18T10:00:00.000Z",
+    "createdAt": "2026-09-18T10:00:00.000Z"
+  },
+  {
+    "id": "ACT-000002",
+    "leadId": "LEAD-000001",
+    "clientId": "CLI-000001",
+    "type": "meeting",
+    "title": "Proposal Review Meeting",
+    "description": "Walkthrough of deliverable timeline and milestone payment structure.",
+    "performedBy": "EMP-000001",
+    "performedByName": "Super Admin",
+    "date": "2026-09-20T14:30:00.000Z",
+    "createdAt": "2026-09-20T14:30:00.000Z"
+  },
+  {
+    "id": "ACT-000003",
+    "leadId": "LEAD-000002",
+    "clientId": "CLI-000002",
+    "type": "email",
+    "title": "Product Demo Invitation Sent",
+    "description": "Shared calendar invite with SolvIQ engineering lead for platform demonstration.",
+    "performedBy": "EMP-000003",
+    "performedByName": "Priya Singh",
+    "date": "2026-09-22T11:00:00.000Z",
+    "createdAt": "2026-09-22T11:00:00.000Z"
+  },
+  {
+    "leadId": "LEAD-000001",
+    "type": "meeting",
+    "description": "Want a fullstack custom website.",
+    "scheduledAt": "2026-10-10T17:42",
+    "performedBy": "USR-000006",
+    "performedByName": "Astitva Pathak",
+    "id": "ACT-000004",
+    "createdAt": "2026-10-10T12:13:07.093Z",
+    "updatedAt": "2026-10-10T12:13:07.093Z"
+  },
+  {
+    "leadId": "LEAD-000001",
+    "type": "call",
+    "description": "Website is required in wordpress.",
+    "scheduledAt": "2026-10-12T21:30",
+    "performedBy": "USR-000001",
+    "performedByName": "Super Admin",
+    "id": "ACT-000005",
+    "createdAt": "2026-10-12T16:01:00.733Z",
+    "updatedAt": "2026-10-12T16:01:00.733Z"
+  },
+  {
+    "clientId": "CLI-000003",
+    "type": "meeting",
+    "description": "skbjs",
+    "title": "",
+    "performedBy": "USR-000001",
+    "performedByName": "Super Admin",
+    "id": "ACT-000006",
+    "createdAt": "2026-10-12T16:03:01.260Z",
+    "updatedAt": "2026-10-12T16:03:01.260Z"
+  }
+]

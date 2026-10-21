@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ROLE-super_admin",
+    "name": "super_admin",
+    "displayName": "Super Admin",
+    "permissions": [
+      "*"
+    ],
+    "createdAt": "2026-09-23T17:03:11.893Z",
+    "updatedAt": "2026-09-23T17:03:11.899Z"
+  },
+  {
+    "id": "ROLE-admin",
+    "name": "admin",
+    "displayName": "Admin",
+    "permissions": [
+      "employee.read",
+      "employee.create",
+      "employee.update",
+      "employee.delete",
+      "attendance.read",
+      "attendance.update",
+      "leave.read",
+      "leave.decide",
+      "leave.delete",
+      "lead.read",
+      "lead.create",
+      "lead.update",
+      "lead.assign",
+      "lead.delete",
+      "proposal.read",
+      "proposal.create",
+      "proposal.update",
+      "proposal.delete",
+      "client.read",
+      "client.create",
+      "client.update",
+      "client.delete",
+      "invoice.read",
+      "invoice.create",
+      "invoice.update",
+      "invoice.delete",
+      "payment.read",
+      "payment.create",
+      "payment.update",
+      "payment.delete",
+      "expense.read",
+      "expense.create",
+      "expense.update",
+      "expense.approve",
+      "expense.delete",
+      "recurring.read",
+      "recurring.create",
+      "recurring.update",
+      "recurring.delete",
+      "project.read",
+      "project.create",
+      "project.update",
+      "project.delete",
+      "task.read",
+      "task.create",
+      "task.update",
+      "task.delete",
+      "department.read",
+      "department.create",
+      "department.update",
+      "department.delete",
+      "report.view",
+      "audit.read",
+      "chat.view",
+      "chat.create_group",
+      "chat.manage_group",
+      "chat.delete_message",
+      "chat.manage_member"
+    ],
+    "createdAt": "2026-09-23T17:03:11.906Z",
+    "updatedAt": "2026-09-23T17:03:11.906Z"
+  },
+  {
+    "id": "ROLE-hr",
+    "name": "hr",
+    "displayName": "HR Manager",
+    "permissions": [
+      "employee.read",
+      "employee.create",
+      "employee.update",
+      "attendance.read",
+      "attendance.update",
+      "leave.read",
+      "leave.decide"
+    ],
+    "createdAt": "2026-09-23T17:03:11.913Z",
+    "updatedAt": "2026-09-23T17:03:11.913Z"
+  },
+  {
+    "id": "ROLE-finance",
+    "name": "finance",
+    "displayName": "Finance",
+    "permissions": [
+      "invoice.read",
+      "invoice.create",
+      "invoice.update",
+      "payment.read",
+      "payment.create",
+      "expense.read",
+      "expense.approve",
+      "report.view"
+    ],
+    "createdAt": "2026-09-23T17:03:11.922Z",
+    "updatedAt": "2026-09-23T17:03:11.922Z"
+  },
+  {
+    "id": "ROLE-bd_manager",
+    "name": "bd_manager",
+    "displayName": "BD Manager",
+    "permissions": [
+      "lead.read",
+      "lead.create",
+      "lead.update",
+      "lead.assign",
+      "lead.delete",
+      "proposal.read",
+      "proposal.create",
+      "proposal.update",
+      "proposal.send",
+      "client.read",
+      "report.view"
+    ],
+    "createdAt": "2026-09-23T17:03:11.930Z",
+    "updatedAt": "2026-09-23T17:03:11.930Z"
+  },
+  {
+    "id": "ROLE-bd_executive",
+    "name": "bd_executive",
+    "displayName": "BD Executive",
+    "permissions": [
+      "lead.read",
+      "lead.create",
+      "lead.update",
+      "proposal.read",
+      "proposal.create",
+      "client.read"
+    ],
+    "createdAt": "2026-09-23T17:03:11.937Z",
+    "updatedAt": "2026-09-23T17:03:11.937Z"
+  },
+  {
+    "id": "ROLE-project_manager",
+    "name": "project_manager",
+    "displayName": "Project Manager",
+    "permissions": [
+      "project.read",
+      "project.create",
+      "project.update",
+      "task.read",
+      "task.create",
+      "task.update",
+      "task.assign",
+      "client.read",
+      "report.view"
+    ],
+    "createdAt": "2026-09-23T17:03:11.945Z",
+    "updatedAt": "2026-09-23T17:03:11.945Z"
+  },
+  {
+    "id": "ROLE-team_member",
+    "name": "team_member",
+    "displayName": "Team Member",
+    "permissions": [
+      "task.read",
+      "task.update",
+      "project.read",
+      "client.read"
+    ],
+    "createdAt": "2026-09-23T17:03:11.980Z",
+    "updatedAt": "2026-09-23T17:03:11.980Z"
+  },
+  {
+    "id": "ROLE-client",
+    "name": "client",
+    "displayName": "Client",
+    "permissions": [
+      "project.read",
+      "task.read",
+      "invoice.read",
+      "payment.read"
+    ],
+    "createdAt": "2026-09-23T17:03:11.988Z",
+    "updatedAt": "2026-09-23T17:03:11.988Z"
+  }
+]

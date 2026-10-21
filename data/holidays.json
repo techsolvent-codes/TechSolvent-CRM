@@ -1,0 +1,74 @@
+[
+  {
+    "id": "HOL-000001",
+    "title": "New Year's Day",
+    "date": "2026-01-01",
+    "type": "national",
+    "description": "Public holiday celebrating the arrival of the New Year.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "HOL-000002",
+    "title": "Republic Day",
+    "date": "2026-01-26",
+    "type": "national",
+    "description": "National holiday honoring the Constitution of India.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "HOL-000003",
+    "title": "Holi (Festival of Colours)",
+    "date": "2026-03-04",
+    "type": "gazetted",
+    "description": "Traditional spring celebration and festival of colours.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "HOL-000004",
+    "title": "Independence Day",
+    "date": "2026-08-15",
+    "type": "national",
+    "description": "National holiday commemorating Indian Independence.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "HOL-000005",
+    "title": "Mahatma Gandhi Jayanti",
+    "date": "2026-10-02",
+    "type": "national",
+    "description": "Birth anniversary of Mahatma Gandhi.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "HOL-000006",
+    "title": "Dussehra (Vijayadashami)",
+    "date": "2026-10-20",
+    "type": "gazetted",
+    "description": "Grand festival celebrating victory of good over evil.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "HOL-000007",
+    "title": "Diwali (Deepavali)",
+    "date": "2026-11-08",
+    "type": "gazetted",
+    "description": "Festival of lights and prosperity.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "HOL-000008",
+    "title": "Govardhan Puja & Bhai Dooj",
+    "date": "2026-11-09",
+    "type": "gazetted",
+    "description": "Festive celebration following Diwali.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "HOL-000009",
+    "title": "Christmas Day",
+    "date": "2026-12-25",
+    "type": "national",
+    "description": "Celebration of Christmas.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  }
+]

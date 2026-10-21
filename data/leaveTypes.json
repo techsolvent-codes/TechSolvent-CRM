@@ -1,0 +1,57 @@
+[
+  {
+    "id": "LTP-000001",
+    "name": "Paid / Annual Leave",
+    "code": "paid",
+    "quotaDays": 18,
+    "isPaid": true,
+    "description": "Annual standard earned privilege leave for rest and personal time off.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "LTP-000002",
+    "name": "Sick Leave",
+    "code": "sick",
+    "quotaDays": 8,
+    "isPaid": true,
+    "description": "Medical recuperation and health appointment leaves.",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-10-12T15:59:27.005Z"
+  },
+  {
+    "id": "LTP-000003",
+    "name": "Casual Leave",
+    "code": "casual",
+    "quotaDays": 6,
+    "isPaid": true,
+    "description": "Short-notice leaves for urgent personal and family matters.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "LTP-000004",
+    "name": "Maternity / Paternity Leave",
+    "code": "maternity",
+    "quotaDays": 90,
+    "isPaid": true,
+    "description": "Parental and maternity care leaves.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "LTP-000005",
+    "name": "Compensatory Off",
+    "code": "compensatory",
+    "quotaDays": 5,
+    "isPaid": true,
+    "description": "Compensatory rest for approved weekend or holiday overtime shifts.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "LTP-000006",
+    "name": "Unpaid Leave",
+    "code": "unpaid",
+    "quotaDays": 30,
+    "isPaid": false,
+    "description": "Leave without pay (Loss of Pay) when paid quotas are exhausted.",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  }
+]

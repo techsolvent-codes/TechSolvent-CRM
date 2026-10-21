@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CLI-000001",
+    "name": "Vikram Malhotra",
+    "companyName": "Nexus Payments Ltd",
+    "email": "vikram@nexuspayments.io",
+    "phone": "+91-9811223344",
+    "industry": "Fintech & Banking",
+    "status": "past",
+    "address": "402 Cyber Hub, DLF Phase 2, Gurugram, India",
+    "gstin": "06AABCN1234F1Z1",
+    "website": "https://nexuspayments.io",
+    "createdAt": "2026-08-10T10:00:00.000Z",
+    "updatedAt": "2026-10-09T19:12:54.971Z"
+  },
+  {
+    "id": "CLI-000002",
+    "name": "Ananya Roy",
+    "companyName": "Aura Retail Group",
+    "email": "ananya@auraretail.com",
+    "phone": "+91-9822334455",
+    "industry": "E-Commerce & Fashion",
+    "status": "active",
+    "address": "12 Richmond Road, Indiranagar, Bengaluru, India",
+    "gstin": "29AABCA5678G1Z2",
+    "website": "https://auraretail.com",
+    "createdAt": "2026-08-18T11:30:00.000Z",
+    "updatedAt": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "id": "CLI-000003",
+    "name": "Dr. Sameer Joshi",
+    "companyName": "PulseCare Health Systems",
+    "email": "dr.joshi@pulsecare.med",
+    "phone": "+91-9833445566",
+    "industry": "Healthcare & MedTech",
+    "status": "active",
+    "address": "88 Bandra Kurla Complex, Mumbai, India",
+    "gstin": "27AABCP9012H1Z3",
+    "website": "https://pulsecare.med",
+    "createdAt": "2026-09-01T09:00:00.000Z",
+    "updatedAt": "2026-09-23T09:00:00.000Z"
+  },
+  {
+    "id": "CLI-000004",
+    "name": "Meera Kapoor",
+    "companyName": "Zenith EdTech Learning",
+    "email": "meera@zenithedtech.org",
+    "phone": "+91-9844556677",
+    "industry": "EdTech & Learning",
+    "status": "past",
+    "address": "15 Gachibowli Financial District, Hyderabad, India",
+    "gstin": "36AABCZ3456J1Z4",
+    "website": "https://zenithedtech.org",
+    "createdAt": "2026-09-05T14:20:00.000Z",
+    "updatedAt": "2026-10-09T19:08:39.159Z"
+  }
+]

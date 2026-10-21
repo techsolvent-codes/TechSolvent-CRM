@@ -1,0 +1,116 @@
+[
+  {
+    "groupId": "GRP-000001",
+    "employeeId": "EMP-000001",
+    "role": "admin",
+    "joinedAt": "2026-09-23T17:03:13.230Z",
+    "id": "CMEM-000001",
+    "createdAt": "2026-09-23T17:03:13.231Z",
+    "updatedAt": "2026-10-11T19:07:54.887Z",
+    "lastReadAt": "2026-10-11T19:07:54.887Z"
+  },
+  {
+    "groupId": "GRP-000002",
+    "employeeId": "EMP-000001",
+    "role": "admin",
+    "joinedAt": "2026-09-23T17:03:13.267Z",
+    "id": "CMEM-000002",
+    "createdAt": "2026-09-23T17:03:13.268Z",
+    "updatedAt": "2026-10-11T19:07:53.299Z",
+    "lastReadAt": "2026-10-11T19:07:53.298Z"
+  },
+  {
+    "groupId": "GRP-000003",
+    "employeeId": "EMP-000001",
+    "role": "admin",
+    "joinedAt": "2026-10-10T12:01:05.245Z",
+    "id": "CMEM-000003",
+    "createdAt": "2026-10-10T12:01:05.246Z",
+    "updatedAt": "2026-10-11T19:07:06.900Z",
+    "lastReadAt": "2026-10-11T19:07:06.900Z"
+  },
+  {
+    "groupId": "GRP-000003",
+    "employeeId": "EMP-000002",
+    "role": "member",
+    "joinedAt": "2026-10-10T12:47:23.691Z",
+    "id": "CMEM-000004",
+    "createdAt": "2026-10-10T12:47:23.692Z",
+    "updatedAt": "2026-10-10T12:47:23.692Z"
+  },
+  {
+    "groupId": "GRP-000003",
+    "employeeId": "EMP-000006",
+    "role": "member",
+    "joinedAt": "2026-10-10T12:47:28.225Z",
+    "id": "CMEM-000005",
+    "createdAt": "2026-10-10T12:47:28.225Z",
+    "updatedAt": "2026-10-10T12:55:51.455Z",
+    "lastReadAt": "2026-10-10T12:55:51.455Z"
+  },
+  {
+    "groupId": "GRP-000004",
+    "employeeId": "EMP-000006",
+    "role": "admin",
+    "joinedAt": "2026-10-10T12:48:36.148Z",
+    "id": "CMEM-000006",
+    "createdAt": "2026-10-10T12:48:36.149Z",
+    "updatedAt": "2026-10-10T13:00:33.309Z",
+    "lastReadAt": "2026-10-10T13:00:33.309Z"
+  },
+  {
+    "groupId": "GRP-000001",
+    "employeeId": "EMP-000002",
+    "role": "member",
+    "joinedAt": "2026-10-10T13:42:20.468Z",
+    "id": "CMEM-000007",
+    "createdAt": "2026-10-10T13:42:20.468Z",
+    "updatedAt": "2026-10-10T13:42:20.468Z"
+  },
+  {
+    "groupId": "GRP-000005",
+    "employeeId": "EMP-000001",
+    "role": "admin",
+    "joinedAt": "2026-10-12T16:12:13.281Z",
+    "id": "CMEM-000008",
+    "createdAt": "2026-10-12T16:12:13.285Z",
+    "updatedAt": "2026-10-12T16:12:16.208Z",
+    "lastReadAt": "2026-10-12T16:12:16.207Z"
+  },
+  {
+    "groupId": "GRP-000005",
+    "employeeId": "EMP-000007",
+    "role": "admin",
+    "joinedAt": "2026-10-12T16:12:13.296Z",
+    "id": "CMEM-000009",
+    "createdAt": "2026-10-12T16:12:13.303Z",
+    "updatedAt": "2026-10-12T16:12:13.303Z"
+  },
+  {
+    "groupId": "GRP-000005",
+    "employeeId": "EMP-000002",
+    "role": "member",
+    "joinedAt": "2026-10-12T16:12:13.321Z",
+    "id": "CMEM-000010",
+    "createdAt": "2026-10-12T16:12:13.323Z",
+    "updatedAt": "2026-10-12T16:12:13.323Z"
+  },
+  {
+    "groupId": "GRP-000005",
+    "employeeId": "EMP-000003",
+    "role": "member",
+    "joinedAt": "2026-10-12T16:12:13.335Z",
+    "id": "CMEM-000011",
+    "createdAt": "2026-10-12T16:12:13.336Z",
+    "updatedAt": "2026-10-12T16:12:13.336Z"
+  },
+  {
+    "groupId": "GRP-000005",
+    "employeeId": "EMP-000004",
+    "role": "member",
+    "joinedAt": "2026-10-12T16:12:13.346Z",
+    "id": "CMEM-000012",
+    "createdAt": "2026-10-12T16:12:13.348Z",
+    "updatedAt": "2026-10-12T16:12:13.348Z"
+  }
+]

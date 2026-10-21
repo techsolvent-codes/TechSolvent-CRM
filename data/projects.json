@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PROJ-000001",
+    "name": "Fintech Mobile App Redesign",
+    "clientId": "CLI-000001",
+    "clientName": "Nexus Payments Ltd",
+    "serviceType": "Mobile Development",
+    "status": "in_progress",
+    "budget": 750000,
+    "startDate": "2026-08-01",
+    "endDate": "2026-11-30",
+    "projectManager": "Rahul Sharma",
+    "projectManagerId": "EMP-000002",
+    "health": "good",
+    "progress": 65,
+    "description": "Native-feel cross-platform mobile wallet with biometric login, QR payments, and real-time transaction ledger.",
+    "milestones": [
+      { "id": "M1", "title": "Wireframes & UI Kit", "status": "completed", "dueDate": "2026-08-20" },
+      { "id": "M2", "title": "Core Auth & Wallet APIs", "status": "completed", "dueDate": "2026-09-15" },
+      { "id": "M3", "title": "Payment Gateway & KYC", "status": "in_progress", "dueDate": "2026-10-15" },
+      { "id": "M4", "title": "Store Submission & QA", "status": "pending", "dueDate": "2026-11-20" }
+    ],
+    "createdAt": "2026-08-01T09:00:00.000Z",
+    "updatedAt": "2026-09-23T09:00:00.000Z"
+  },
+  {
+    "id": "PROJ-000002",
+    "name": "Omnichannel E-Commerce Platform",
+    "clientId": "CLI-000002",
+    "clientName": "Aura Retail Group",
+    "serviceType": "E-Commerce Web",
+    "status": "in_progress",
+    "budget": 1200000,
+    "startDate": "2026-09-01",
+    "endDate": "2026-12-31",
+    "projectManager": "Rahul Sharma",
+    "projectManagerId": "EMP-000002",
+    "health": "attention",
+    "progress": 35,
+    "description": "High-throughput storefront with dynamic catalogue search, AI product recommendations, and multi-warehouse order fulfillment.",
+    "milestones": [
+      { "id": "M1", "title": "Product Schema & CMS Architecture", "status": "completed", "dueDate": "2026-09-15" },
+      { "id": "M2", "title": "Cart & Checkout Flow", "status": "in_progress", "dueDate": "2026-10-10" },
+      { "id": "M3", "title": "ERP & Inventory Sync Integration", "status": "pending", "dueDate": "2026-11-15" }
+    ],
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-23T10:00:00.000Z"
+  },
+  {
+    "id": "PROJ-000003",
+    "name": "Healthcare Patient Portal & EHR",
+    "clientId": "CLI-000003",
+    "clientName": "PulseCare Health Systems",
+    "serviceType": "Custom Enterprise Software",
+    "status": "in_progress",
+    "budget": 950000,
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-28",
+    "projectManager": "Super Admin",
+    "projectManagerId": "EMP-000001",
+    "health": "good",
+    "progress": 85,
+    "description": "HIPAA-compliant health records portal with encrypted doctor consultation video calls and digital prescription downloads.",
+    "milestones": [
+      { "id": "M1", "title": "Security Architecture & Encryption", "status": "completed", "dueDate": "2026-09-18" },
+      { "id": "M2", "title": "Appointment Scheduling & Records", "status": "completed", "dueDate": "2026-09-22" },
+      { "id": "M3", "title": "Final Security Penetration Testing", "status": "in_progress", "dueDate": "2026-09-27" }
+    ],
+    "createdAt": "2026-09-15T11:00:00.000Z",
+    "updatedAt": "2026-09-23T11:00:00.000Z"
+  }
+]

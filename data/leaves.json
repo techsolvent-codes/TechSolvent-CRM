@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LVE-000001",
+    "employeeId": "EMP-000002",
+    "employeeName": "Rahul Sharma",
+    "type": "paid",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-14",
+    "daysCount": 3,
+    "isHalfDay": false,
+    "halfDayType": null,
+    "reason": "Family vacation and travel during festive holiday.",
+    "status": "pending",
+    "createdAt": "2026-09-20T10:00:00.000Z",
+    "updatedAt": "2026-09-20T10:00:00.000Z"
+  },
+  {
+    "id": "LVE-000002",
+    "employeeId": "EMP-000003",
+    "employeeName": "Priya Singh",
+    "type": "sick",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-15",
+    "daysCount": 1,
+    "isHalfDay": false,
+    "halfDayType": null,
+    "reason": "Severe viral fever and doctor prescribed recovery rest.",
+    "status": "approved",
+    "createdAt": "2026-09-14T16:00:00.000Z",
+    "updatedAt": "2026-09-15T09:00:00.000Z"
+  },
+  {
+    "id": "LVE-000003",
+    "employeeId": "EMP-000002",
+    "employeeName": "Rahul Sharma",
+    "type": "casual",
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "daysCount": 0.5,
+    "isHalfDay": true,
+    "halfDayType": "second_half",
+    "reason": "Personal urgent bank documentation work.",
+    "status": "approved",
+    "createdAt": "2026-09-07T11:00:00.000Z",
+    "updatedAt": "2026-09-07T14:00:00.000Z"
+  }
+]

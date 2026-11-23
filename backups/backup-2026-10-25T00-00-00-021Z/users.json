@@ -1,0 +1,72 @@
+[
+  {
+    "id": "USR-000001",
+    "name": "Super Admin",
+    "email": "admin@techsolvent.com",
+    "passwordHash": "$2b$12$8fhl54mKXV1jvxgi0BMkhOizuqmq3Cvu05qaKuNXd14btlIV/xMTu",
+    "role": "super_admin",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:03:12.482Z",
+    "updatedAt": "2026-09-23T17:03:12.482Z"
+  },
+  {
+    "id": "USR-000002",
+    "name": "Rahul Sharma",
+    "email": "manager@techsolvent.com",
+    "passwordHash": "$2b$12$4fmO.vIt8wb7RhzXv5cECOJph4R729MhvBluEgJc8PlKlhuSV36Te",
+    "role": "project_manager",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:03:12.848Z",
+    "updatedAt": "2026-09-23T17:03:12.848Z"
+  },
+  {
+    "id": "USR-000003",
+    "name": "Priya Singh",
+    "email": "bd@techsolvent.com",
+    "passwordHash": "$2b$12$E957smrb7..kuhP4PAjmku9IgZYppnW1fhEhZ5tfWXbRXfIH75A4u",
+    "role": "bd_executive",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:03:13.179Z",
+    "updatedAt": "2026-09-23T17:03:13.179Z"
+  },
+  {
+    "id": "USR-000004",
+    "name": "Aman Verma",
+    "email": "dev@techsolvent.com",
+    "passwordHash": "$2b$10$fXmdXWvME2V3r4/g7fTiG.t0YMc3H.8LvUwQd2WMjIZhHMGFY8xHO",
+    "role": "team_member",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:15:00.000Z",
+    "updatedAt": "2026-09-23T17:15:00.000Z"
+  },
+  {
+    "id": "USR-000005",
+    "name": "Neha Sharma",
+    "email": "hr@techsolvent.com",
+    "passwordHash": "$2b$10$35a0.Vxlgkx42eo5HzARX.950eWAnBzQvadiXe9yIGCIiR5odMa3m",
+    "role": "hr",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:15:00.000Z",
+    "updatedAt": "2026-09-23T17:15:00.000Z"
+  },
+  {
+    "name": "Astitva Pathak",
+    "email": "astitvapathak2711@gmail.com",
+    "passwordHash": "$2b$12$SIB9AJSmVOJ4WfnB9MTXNeVovj60K/RW4Wwu/oYf6c5o9vHIm5U5i",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000006",
+    "createdAt": "2026-10-10T12:05:59.790Z",
+    "updatedAt": "2026-10-10T12:15:36.339Z"
+  },
+  {
+    "name": "Abhishek",
+    "email": "abhishekm@techsolvent.in",
+    "passwordHash": "$2b$12$NjvY7wzzZDcnGYVUl8/oh.jZQb8rOwQG/eAx1GGyuIC1H6RL4U3hC",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000007",
+    "createdAt": "2026-10-12T16:09:29.124Z",
+    "updatedAt": "2026-10-12T16:09:29.124Z"
+  }
+]

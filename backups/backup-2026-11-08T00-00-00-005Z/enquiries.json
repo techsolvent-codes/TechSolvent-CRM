@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Astitva Pathak",
+    "email": "astitvapathak2711@gmail.com",
+    "phone": "+917389522364",
+    "company": "Test",
+    "teamSize": "11-50",
+    "planInterested": "Agency Growth Pro",
+    "modules": [
+      "Sales CRM & Pipelines",
+      "Projects & Kanban Boards",
+      "Invoicing & Automated Retainers",
+      "Biometric Attendance & HRMS"
+    ],
+    "message": "",
+    "status": "new",
+    "adminNotes": "",
+    "createdAt": "2026-10-11T10:37:25.658Z",
+    "id": "ENQ-000002",
+    "updatedAt": "2026-10-11T10:37:25.659Z"
+  }
+]

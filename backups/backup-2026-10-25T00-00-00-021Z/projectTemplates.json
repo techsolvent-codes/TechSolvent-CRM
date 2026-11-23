@@ -1,0 +1,30 @@
+[
+  {
+    "id": "TMPL-000001",
+    "name": "Full-Stack Web Application (Agile)",
+    "description": "Standard 4-phase agile delivery cycle for SaaS and web platforms",
+    "tasks": [
+      "Requirement Analysis & Architecture Blueprint",
+      "UI/UX Wireframing & Design System in Figma",
+      "Database Schema Design & Repository Layer",
+      "Core Backend REST & GraphQL APIs Implementation",
+      "Frontend Component Development & Responsive Layouts",
+      "Automated Testing, CI/CD Pipeline & Staging Deploy",
+      "Security Audit, Penetration Testing & Production Launch"
+    ]
+  },
+  {
+    "id": "TMPL-000002",
+    "name": "Mobile App (iOS & Android)",
+    "description": "Cross-platform React Native development and App Store publishing template",
+    "tasks": [
+      "App Flow & Wireframes Approval",
+      "Mobile Component Library & Theme Setup",
+      "Authentication, Biometrics & Secure Storage",
+      "Core Feature Integration & State Management",
+      "Push Notifications & Deep Linking Setup",
+      "TestFlight & Google Play Beta Testing",
+      "App Store & Play Store Production Submission"
+    ]
+  }
+]

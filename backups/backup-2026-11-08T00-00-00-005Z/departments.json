@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Business Development",
+    "id": "DEPT-000001",
+    "createdAt": "2026-09-23T17:03:12.003Z",
+    "updatedAt": "2026-09-23T17:03:12.003Z"
+  },
+  {
+    "name": "Sales",
+    "id": "DEPT-000002",
+    "createdAt": "2026-09-23T17:03:12.036Z",
+    "updatedAt": "2026-09-23T17:03:12.036Z"
+  },
+  {
+    "name": "SEO",
+    "id": "DEPT-000003",
+    "createdAt": "2026-09-23T17:03:12.042Z",
+    "updatedAt": "2026-09-23T17:03:12.042Z"
+  },
+  {
+    "name": "Social Media",
+    "id": "DEPT-000004",
+    "createdAt": "2026-09-23T17:03:12.050Z",
+    "updatedAt": "2026-09-23T17:03:12.050Z"
+  },
+  {
+    "name": "Performance Marketing",
+    "id": "DEPT-000005",
+    "createdAt": "2026-09-23T17:03:12.058Z",
+    "updatedAt": "2026-09-23T17:03:12.058Z"
+  },
+  {
+    "name": "Graphic Design",
+    "id": "DEPT-000006",
+    "createdAt": "2026-09-23T17:03:12.064Z",
+    "updatedAt": "2026-09-23T17:03:12.064Z"
+  },
+  {
+    "name": "Video",
+    "id": "DEPT-000007",
+    "createdAt": "2026-09-23T17:03:12.092Z",
+    "updatedAt": "2026-09-23T17:03:12.092Z"
+  },
+  {
+    "name": "Web Development",
+    "id": "DEPT-000008",
+    "createdAt": "2026-09-23T17:03:12.098Z",
+    "updatedAt": "2026-09-23T17:03:12.098Z"
+  },
+  {
+    "name": "Shopify",
+    "id": "DEPT-000009",
+    "createdAt": "2026-09-23T17:03:12.105Z",
+    "updatedAt": "2026-09-23T17:03:12.105Z"
+  },
+  {
+    "name": "Custom Development",
+    "id": "DEPT-000010",
+    "createdAt": "2026-09-23T17:03:12.112Z",
+    "updatedAt": "2026-09-23T17:03:12.112Z"
+  },
+  {
+    "name": "Operations",
+    "id": "DEPT-000011",
+    "createdAt": "2026-09-23T17:03:12.119Z",
+    "updatedAt": "2026-09-23T17:03:12.119Z"
+  },
+  {
+    "name": "Finance",
+    "id": "DEPT-000012",
+    "createdAt": "2026-09-23T17:03:12.125Z",
+    "updatedAt": "2026-09-23T17:03:12.125Z"
+  },
+  {
+    "name": "Management",
+    "id": "DEPT-000013",
+    "createdAt": "2026-09-23T17:03:12.132Z",
+    "updatedAt": "2026-09-23T17:03:12.132Z"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "PAY-000001",
+    "invoiceId": "INV-000001",
+    "invoiceNumber": "INV-2026-001",
+    "clientId": "CLI-000001",
+    "clientName": "Nexus Payments Ltd",
+    "amount": 295000,
+    "paymentMethod": "bank_transfer",
+    "transactionRef": "UTR-HDFC-983748291",
+    "paymentDate": "2026-09-23",
+    "paidAt": "2026-09-23T10:30:00.000Z",
+    "notes": "Full settlement for Invoice #INV-2026-001 received via RTGS.",
+    "createdAt": "2026-09-23T10:30:00.000Z",
+    "updatedAt": "2026-09-23T10:30:00.000Z"
+  },
+  {
+    "id": "PAY-000002",
+    "invoiceId": "INV-000002",
+    "invoiceNumber": "INV-2026-002",
+    "clientId": "CLI-000002",
+    "clientName": "Aura Retail Group",
+    "amount": 100000,
+    "paymentMethod": "upi",
+    "transactionRef": "UPI-AURA-982137648",
+    "paymentDate": "2026-09-18",
+    "paidAt": "2026-09-18T14:15:00.000Z",
+    "notes": "Part payment milestone advance via Corporate UPI.",
+    "createdAt": "2026-09-18T14:15:00.000Z",
+    "updatedAt": "2026-09-18T14:15:00.000Z"
+  },
+  {
+    "id": "PAY-000003",
+    "invoiceId": "",
+    "invoiceNumber": "Direct Retainer Deposit",
+    "clientId": "CLI-000004",
+    "clientName": "Zenith EdTech Learning",
+    "amount": 150000,
+    "paymentMethod": "stripe",
+    "transactionRef": "ch_3PqL818Z3xKl",
+    "paymentDate": "2026-09-22",
+    "paidAt": "2026-09-22T11:00:00.000Z",
+    "notes": "Initial LMS setup and security audit advance retainer.",
+    "createdAt": "2026-09-22T11:00:00.000Z",
+    "updatedAt": "2026-09-22T11:00:00.000Z"
+  }
+]

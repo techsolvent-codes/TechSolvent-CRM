@@ -1,0 +1,17 @@
+[
+  {
+    "userId": "USR-000006",
+    "subscription": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/eQwftdZrH4U:APA91bHQpDCodO7DKAFzmDvH1xX-9SAnAsvVR6Vc7-6DsdUY7tYiCx3eGDVm9I9A6g5MGEkNA30FKfHk9wE73dj2WtdnDBVSWI6sOqxijO8SBpIm8EMH57DteTNOuCSY9FaSCM8I_zFu",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BP7wevwHRKsdlz8vdY5_rCV5een6zQnJUpvW65hI-veZgemsG04ToWpP-V5SI4EXyBNsapo5SDua2FaTcMjWYns",
+        "auth": "Swg7rDIbj-f9Jj7lT9T3mA"
+      }
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "id": "SUB-000001",
+    "createdAt": "2026-10-11T18:49:11.379Z",
+    "updatedAt": "2026-10-12T16:36:38.964Z"
+  }
+]

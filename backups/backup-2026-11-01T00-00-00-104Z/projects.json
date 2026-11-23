@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Babacups social media icons",
+    "clientId": "CLI-000008",
+    "clientName": "Baba Cups",
+    "serviceType": "Website",
+    "managerId": "EMP-000010",
+    "managerName": "Devanshi Gosh",
+    "teamMembers": [],
+    "startDate": "2026-10-30",
+    "endDate": "2026-10-30",
+    "budget": null,
+    "revenue": null,
+    "description": "",
+    "status": "in_progress",
+    "health": "green",
+    "milestones": [],
+    "createdBy": "USR-000001",
+    "id": "PROJ-000001",
+    "createdAt": "2026-10-30T05:00:03.418Z",
+    "updatedAt": "2026-10-30T07:47:12.663Z"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "name": "General",
+    "description": "General company discussions",
+    "type": "announcement",
+    "status": "active",
+    "createdBy": "EMP-000001",
+    "id": "GRP-000001",
+    "createdAt": "2026-09-23T17:03:13.223Z",
+    "updatedAt": "2026-09-23T17:03:13.223Z"
+  },
+  {
+    "name": "Management",
+    "description": "Management team discussions",
+    "type": "department",
+    "status": "active",
+    "createdBy": "EMP-000001",
+    "id": "GRP-000002",
+    "createdAt": "2026-09-23T17:03:13.261Z",
+    "updatedAt": "2026-09-23T17:03:13.261Z"
+  },
+  {
+    "name": "Test",
+    "description": "",
+    "type": "custom",
+    "status": "active",
+    "createdBy": "EMP-000001",
+    "createdByName": "Super Admin",
+    "id": "GRP-000003",
+    "createdAt": "2026-10-10T12:01:05.243Z",
+    "updatedAt": "2026-10-10T12:01:05.243Z"
+  },
+  {
+    "name": "A",
+    "description": "",
+    "type": "custom",
+    "status": "active",
+    "createdBy": "EMP-000006",
+    "createdByName": "Astitva Pathak",
+    "id": "GRP-000004",
+    "createdAt": "2026-10-10T12:48:36.143Z",
+    "updatedAt": "2026-10-10T12:48:36.143Z"
+  },
+  {
+    "name": "Hawaban",
+    "description": "",
+    "type": "custom",
+    "status": "active",
+    "createdBy": "EMP-000001",
+    "createdByName": "Super Admin",
+    "id": "GRP-000005",
+    "createdAt": "2026-10-12T16:12:13.267Z",
+    "updatedAt": "2026-10-12T16:12:13.267Z"
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "id": "MSG-000001",
+    "groupId": "GRP-000001",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "content": "🚀 Welcome everyone to TECHSOLVENT OS! All agency departments, clients, and pipelines are live.",
+    "reactions": [
+      {
+        "id": "R1",
+        "reaction": "🎉",
+        "employeeId": "EMP-000002"
+      },
+      {
+        "id": "R2",
+        "reaction": "🚀",
+        "employeeId": "EMP-000003"
+      }
+    ],
+    "createdAt": "2026-09-23T09:30:00.000Z",
+    "updatedAt": "2026-09-23T09:30:00.000Z"
+  },
+  {
+    "id": "MSG-000002",
+    "groupId": "GRP-000001",
+    "senderId": "EMP-000003",
+    "senderName": "Priya Singh",
+    "content": "Exciting news! Nexus Payments just signed off on the milestone, and their RTGS remittance is cleared.",
+    "reactions": [
+      {
+        "id": "R3",
+        "reaction": "🙌",
+        "employeeId": "EMP-000001"
+      }
+    ],
+    "createdAt": "2026-09-23T10:35:00.000Z",
+    "updatedAt": "2026-09-23T10:35:00.000Z"
+  },
+  {
+    "id": "MSG-000003",
+    "groupId": "GRP-000001",
+    "senderId": "EMP-000002",
+    "senderName": "Rahul Sharma",
+    "content": "Sprint goals for the Aura Retail E-Commerce storefront are on track. We are reviewing checkout flow next.",
+    "reactions": [],
+    "createdAt": "2026-09-23T11:15:00.000Z",
+    "updatedAt": "2026-09-23T11:15:00.000Z"
+  },
+  {
+    "id": "MSG-000004",
+    "groupId": "GRP-000002",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "content": "Management meeting scheduled for Friday 4 PM to review monthly financial run rate and Q4 hiring plan.",
+    "reactions": [],
+    "createdAt": "2026-09-23T14:00:00.000Z",
+    "updatedAt": "2026-09-23T14:00:00.000Z"
+  },
+  {
+    "groupId": "GRP-000002",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "check",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000005",
+    "createdAt": "2026-09-23T17:36:04.516Z",
+    "updatedAt": "2026-09-23T17:36:04.516Z"
+  },
+  {
+    "groupId": "GRP-000002",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "hi",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000006",
+    "createdAt": "2026-09-23T17:36:08.890Z",
+    "updatedAt": "2026-09-23T17:36:08.890Z"
+  },
+  {
+    "groupId": "GRP-000001",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "check",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000007",
+    "createdAt": "2026-09-23T17:36:19.415Z",
+    "updatedAt": "2026-09-23T17:36:19.415Z"
+  },
+  {
+    "groupId": "GRP-000003",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "Test",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000008",
+    "createdAt": "2026-10-10T12:01:28.949Z",
+    "updatedAt": "2026-10-10T12:01:28.949Z"
+  },
+  {
+    "groupId": "GRP-000003",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "check",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000009",
+    "createdAt": "2026-10-10T12:47:39.801Z",
+    "updatedAt": "2026-10-10T12:47:39.801Z"
+  },
+  {
+    "groupId": "GRP-000001",
+    "senderId": "EMP-000002",
+    "senderName": "Rahul Sharma",
+    "message": "Hello team, check out the new chat updates!",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000010",
+    "createdAt": "2026-10-11T19:06:27.916Z",
+    "updatedAt": "2026-10-11T19:06:27.916Z"
+  },
+  {
+    "conversationId": "DM-000002",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "Hi Astitva",
+    "messageType": "text",
+    "id": "MSG-000011",
+    "createdAt": "2026-10-11T19:06:51.283Z",
+    "updatedAt": "2026-10-11T19:06:51.283Z"
+  },
+  {
+    "conversationId": "DM-000001",
+    "senderId": "EMP-000002",
+    "senderName": "Rahul Sharma",
+    "message": "Hey admin, direct message test!",
+    "messageType": "text",
+    "id": "MSG-000012",
+    "createdAt": "2026-10-11T19:08:49.531Z",
+    "updatedAt": "2026-10-11T19:08:49.531Z"
+  },
+  {
+    "conversationId": "DM-000002",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "Check Astitva.",
+    "messageType": "text",
+    "id": "MSG-000013",
+    "createdAt": "2026-10-12T16:11:15.313Z",
+    "updatedAt": "2026-10-12T16:11:15.313Z"
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "id": "ACT-000001",
+    "leadId": "LEAD-000001",
+    "clientId": "CLI-000001",
+    "type": "call",
+    "title": "Discovery Call with CTO",
+    "description": "Reviewed cloud infrastructure requirements and microservices architecture.",
+    "performedBy": "EMP-000003",
+    "performedByName": "Priya Singh",
+    "date": "2026-09-18T10:00:00.000Z",
+    "createdAt": "2026-09-18T10:00:00.000Z"
+  },
+  {
+    "id": "ACT-000002",
+    "leadId": "LEAD-000001",
+    "clientId": "CLI-000001",
+    "type": "meeting",
+    "title": "Proposal Review Meeting",
+    "description": "Walkthrough of deliverable timeline and milestone payment structure.",
+    "performedBy": "EMP-000001",
+    "performedByName": "Super Admin",
+    "date": "2026-09-20T14:30:00.000Z",
+    "createdAt": "2026-09-20T14:30:00.000Z"
+  },
+  {
+    "id": "ACT-000003",
+    "leadId": "LEAD-000002",
+    "clientId": "CLI-000002",
+    "type": "email",
+    "title": "Product Demo Invitation Sent",
+    "description": "Shared calendar invite with SolvIQ engineering lead for platform demonstration.",
+    "performedBy": "EMP-000003",
+    "performedByName": "Priya Singh",
+    "date": "2026-09-22T11:00:00.000Z",
+    "createdAt": "2026-09-22T11:00:00.000Z"
+  },
+  {
+    "leadId": "LEAD-000001",
+    "type": "meeting",
+    "description": "Want a fullstack custom website.",
+    "scheduledAt": "2026-10-10T17:42",
+    "performedBy": "USR-000006",
+    "performedByName": "Astitva Pathak",
+    "id": "ACT-000004",
+    "createdAt": "2026-10-10T12:13:07.093Z",
+    "updatedAt": "2026-10-10T12:13:07.093Z"
+  },
+  {
+    "leadId": "LEAD-000001",
+    "type": "call",
+    "description": "Website is required in wordpress.",
+    "scheduledAt": "2026-10-12T21:30",
+    "performedBy": "USR-000001",
+    "performedByName": "Super Admin",
+    "id": "ACT-000005",
+    "createdAt": "2026-10-12T16:01:00.733Z",
+    "updatedAt": "2026-10-12T16:01:00.733Z"
+  },
+  {
+    "clientId": "CLI-000003",
+    "type": "meeting",
+    "description": "skbjs",
+    "title": "",
+    "performedBy": "USR-000001",
+    "performedByName": "Super Admin",
+    "id": "ACT-000006",
+    "createdAt": "2026-10-12T16:03:01.260Z",
+    "updatedAt": "2026-10-12T16:03:01.260Z"
+  },
+  {
+    "leadId": "LEAD-000002",
+    "type": "meeting",
+    "description": "Had a chat for meeting ",
+    "scheduledAt": "2026-10-28T15:56",
+    "performedBy": "USR-000008",
+    "performedByName": "Ayush Dewangan",
+    "id": "ACT-000007",
+    "createdAt": "2026-10-26T08:25:30.774Z",
+    "updatedAt": "2026-10-26T08:25:30.774Z"
+  },
+  {
+    "leadId": "LEAD-000007",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000008",
+    "createdAt": "2026-10-28T06:40:34.468Z",
+    "updatedAt": "2026-10-28T06:40:34.468Z"
+  },
+  {
+    "leadId": "LEAD-000007",
+    "type": "status_change",
+    "description": "Status changed from new_lead to meeting",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000009",
+    "createdAt": "2026-10-28T06:40:48.478Z",
+    "updatedAt": "2026-10-28T06:40:48.478Z"
+  },
+  {
+    "leadId": "LEAD-000008",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000010",
+    "createdAt": "2026-11-03T07:32:51.780Z",
+    "updatedAt": "2026-11-03T07:32:51.780Z"
+  },
+  {
+    "leadId": "LEAD-000008",
+    "type": "status_change",
+    "description": "Status changed from new_lead to proposal",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000011",
+    "createdAt": "2026-11-03T07:33:03.810Z",
+    "updatedAt": "2026-11-03T07:33:03.810Z"
+  },
+  {
+    "leadId": "LEAD-000007",
+    "type": "status_change",
+    "description": "Status changed from meeting to proposal",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000012",
+    "createdAt": "2026-11-03T07:33:26.751Z",
+    "updatedAt": "2026-11-03T07:33:26.751Z"
+  },
+  {
+    "leadId": "LEAD-000009",
+    "type": "note",
+    "description": "Lead created by Laxmi Verkhade",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000013",
+    "createdAt": "2026-11-03T07:36:52.963Z",
+    "updatedAt": "2026-11-03T07:36:52.963Z"
+  },
+  {
+    "leadId": "LEAD-000010",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000014",
+    "createdAt": "2026-11-03T08:09:06.194Z",
+    "updatedAt": "2026-11-03T08:09:06.194Z"
+  },
+  {
+    "leadId": "LEAD-000010",
+    "type": "status_change",
+    "description": "Status changed from new_lead to proposal",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000015",
+    "createdAt": "2026-11-03T08:09:13.608Z",
+    "updatedAt": "2026-11-03T08:09:13.608Z"
+  },
+  {
+    "leadId": "LEAD-000011",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000016",
+    "createdAt": "2026-11-03T08:10:58.333Z",
+    "updatedAt": "2026-11-03T08:10:58.333Z"
+  },
+  {
+    "leadId": "LEAD-000012",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000017",
+    "createdAt": "2026-11-03T08:19:02.596Z",
+    "updatedAt": "2026-11-03T08:19:02.596Z"
+  },
+  {
+    "leadId": "LEAD-000012",
+    "type": "status_change",
+    "description": "Status changed from new_lead to proposal",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000018",
+    "createdAt": "2026-11-03T08:19:08.078Z",
+    "updatedAt": "2026-11-03T08:19:08.078Z"
+  },
+  {
+    "leadId": "LEAD-000013",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000019",
+    "createdAt": "2026-11-03T08:23:54.140Z",
+    "updatedAt": "2026-11-03T08:23:54.140Z"
+  },
+  {
+    "leadId": "LEAD-000014",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000020",
+    "createdAt": "2026-11-03T08:24:35.194Z",
+    "updatedAt": "2026-11-03T08:24:35.194Z"
+  },
+  {
+    "leadId": "LEAD-000014",
+    "type": "status_change",
+    "description": "Status changed from new_lead to proposal",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000021",
+    "createdAt": "2026-11-03T08:24:42.406Z",
+    "updatedAt": "2026-11-03T08:24:42.406Z"
+  },
+  {
+    "leadId": "LEAD-000015",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000022",
+    "createdAt": "2026-11-03T08:26:50.362Z",
+    "updatedAt": "2026-11-03T08:26:50.362Z"
+  },
+  {
+    "leadId": "LEAD-000016",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000023",
+    "createdAt": "2026-11-03T10:26:10.764Z",
+    "updatedAt": "2026-11-03T10:26:10.764Z"
+  },
+  {
+    "leadId": "LEAD-000017",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000024",
+    "createdAt": "2026-11-03T10:36:33.246Z",
+    "updatedAt": "2026-11-03T10:36:33.246Z"
+  },
+  {
+    "leadId": "LEAD-000018",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000025",
+    "createdAt": "2026-11-04T08:05:46.854Z",
+    "updatedAt": "2026-11-04T08:05:46.854Z"
+  },
+  {
+    "leadId": "LEAD-000007",
+    "type": "call",
+    "description": "Texted him for follow up and he said he's travelling right now and will get back to us to schedule the meeting.",
+    "scheduledAt": "2026-11-04T11:16",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000026",
+    "createdAt": "2026-11-04T11:53:42.954Z",
+    "updatedAt": "2026-11-04T11:53:42.954Z"
+  },
+  {
+    "leadId": "LEAD-000019",
+    "type": "note",
+    "description": "Lead created by Laxmi Verkhade",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000027",
+    "createdAt": "2026-11-20T05:26:39.930Z",
+    "updatedAt": "2026-11-20T05:26:39.930Z"
+  },
+  {
+    "leadId": "LEAD-000019",
+    "type": "status_change",
+    "description": "Status changed from new_lead to contacted",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000028",
+    "createdAt": "2026-11-20T05:27:15.765Z",
+    "updatedAt": "2026-11-20T05:27:15.765Z"
+  },
+  {
+    "leadId": "LEAD-000020",
+    "type": "note",
+    "description": "Lead created by Laxmi Verkhade",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000029",
+    "createdAt": "2026-11-20T05:30:18.934Z",
+    "updatedAt": "2026-11-20T05:30:18.934Z"
+  },
+  {
+    "leadId": "LEAD-000019",
+    "type": "status_change",
+    "description": "Status changed from contacted to meeting",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000030",
+    "createdAt": "2026-11-20T05:33:04.969Z",
+    "updatedAt": "2026-11-20T05:33:04.969Z"
+  },
+  {
+    "leadId": "LEAD-000019",
+    "type": "status_change",
+    "description": "Status changed from meeting to proposal",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000031",
+    "createdAt": "2026-11-20T05:33:13.525Z",
+    "updatedAt": "2026-11-20T05:33:13.525Z"
+  },
+  {
+    "leadId": "LEAD-000021",
+    "type": "note",
+    "description": "Lead created by Laxmi Verkhade",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000032",
+    "createdAt": "2026-11-20T05:38:42.385Z",
+    "updatedAt": "2026-11-20T05:38:42.385Z"
+  },
+  {
+    "leadId": "LEAD-000022",
+    "type": "note",
+    "description": "Lead created by Devanshi Gosh",
+    "performedBy": "USR-000010",
+    "performedByName": "Devanshi Gosh",
+    "id": "ACT-000033",
+    "createdAt": "2026-11-20T07:11:11.267Z",
+    "updatedAt": "2026-11-20T07:11:11.267Z"
+  },
+  {
+    "leadId": "LEAD-000023",
+    "type": "note",
+    "description": "Lead created by Laxmi Verkhade",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000034",
+    "createdAt": "2026-11-20T12:00:20.426Z",
+    "updatedAt": "2026-11-20T12:00:20.426Z"
+  },
+  {
+    "leadId": "LEAD-000024",
+    "type": "note",
+    "description": "Lead created by Laxmi Verkhade",
+    "performedBy": "USR-000012",
+    "performedByName": "Laxmi Verkhade",
+    "id": "ACT-000035",
+    "createdAt": "2026-11-20T12:21:36.132Z",
+    "updatedAt": "2026-11-20T12:21:36.132Z"
+  }
+]

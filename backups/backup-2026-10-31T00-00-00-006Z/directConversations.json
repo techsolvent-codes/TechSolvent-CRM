@@ -1,0 +1,34 @@
+[
+  {
+    "id": "DM-000001",
+    "members": [
+      "EMP-000001",
+      "EMP-000002"
+    ],
+    "memberNames": [
+      "Super Admin",
+      "Rahul Sharma"
+    ],
+    "lastMessage": "Sounds great, staging deployment is approved.",
+    "lastMessageAt": "2026-09-23T14:45:00.000Z",
+    "createdAt": "2026-09-23T09:00:00.000Z",
+    "updatedAt": "2026-10-11T19:08:49.561Z",
+    "lastReadBy": {
+      "EMP-000001": "2026-10-11T19:08:49.561Z",
+      "EMP-000002": "2026-10-11T19:08:49.523Z"
+    }
+  },
+  {
+    "members": [
+      "EMP-000001",
+      "EMP-000006"
+    ],
+    "lastReadBy": {
+      "EMP-000001": "2026-10-12T16:11:15.299Z",
+      "EMP-000006": "2026-10-12T16:11:28.501Z"
+    },
+    "id": "DM-000002",
+    "createdAt": "2026-10-11T19:06:46.174Z",
+    "updatedAt": "2026-10-12T16:11:28.505Z"
+  }
+]

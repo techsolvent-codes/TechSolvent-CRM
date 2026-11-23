@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Rajesh Malhotra",
+    "email": "rajesh@techcorp.in",
+    "phone": "+91-9876500112",
+    "company": "TechCorp Solutions",
+    "teamSize": "11-50",
+    "planInterested": "Agency Growth Pro",
+    "modules": [
+      "Sales CRM",
+      "Projects & Tasks",
+      "Invoicing"
+    ],
+    "message": "Looking to transition our 35-member agency from Asana + Zoho to TechSolvent.",
+    "status": "new",
+    "adminNotes": "",
+    "createdAt": "2026-10-11T10:31:45.010Z",
+    "id": "ENQ-000001",
+    "updatedAt": "2026-10-11T10:31:45.010Z"
+  },
+  {
+    "name": "Astitva Pathak",
+    "email": "astitvapathak2711@gmail.com",
+    "phone": "+917389522364",
+    "company": "Test",
+    "teamSize": "11-50",
+    "planInterested": "Agency Growth Pro",
+    "modules": [
+      "Sales CRM & Pipelines",
+      "Projects & Kanban Boards",
+      "Invoicing & Automated Retainers",
+      "Biometric Attendance & HRMS"
+    ],
+    "message": "",
+    "status": "new",
+    "adminNotes": "",
+    "createdAt": "2026-10-11T10:37:25.658Z",
+    "id": "ENQ-000002",
+    "updatedAt": "2026-10-11T10:37:25.659Z"
+  },
+  {
+    "name": "Pooja Deshmukh",
+    "email": "pooja@growthscale.agency",
+    "phone": "+91-9876543210",
+    "company": "GrowthScale Agency",
+    "teamSize": "11-50",
+    "planInterested": "Agency Growth Pro",
+    "modules": [
+      "Sales CRM & Pipelines",
+      "Projects & Kanban Boards"
+    ],
+    "message": "We are evaluating TechSolvent for our 25-person marketing agency.",
+    "status": "new",
+    "adminNotes": "",
+    "createdAt": "2026-10-11T10:41:59.759Z",
+    "id": "ENQ-000003",
+    "updatedAt": "2026-10-11T10:41:59.759Z"
+  }
+]

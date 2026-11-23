@@ -1,0 +1,182 @@
+[
+  {
+    "id": "USR-000001",
+    "name": "Super Admin",
+    "email": "admin@techsolvent.com",
+    "passwordHash": "$2b$12$8fhl54mKXV1jvxgi0BMkhOizuqmq3Cvu05qaKuNXd14btlIV/xMTu",
+    "role": "super_admin",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:03:12.482Z",
+    "updatedAt": "2026-09-23T17:03:12.482Z"
+  },
+  {
+    "id": "USR-000002",
+    "name": "Rahul Sharma",
+    "email": "manager@techsolvent.com",
+    "passwordHash": "$2b$12$4fmO.vIt8wb7RhzXv5cECOJph4R729MhvBluEgJc8PlKlhuSV36Te",
+    "role": "project_manager",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:03:12.848Z",
+    "updatedAt": "2026-09-23T17:03:12.848Z"
+  },
+  {
+    "id": "USR-000003",
+    "name": "Priya Singh",
+    "email": "bd@techsolvent.com",
+    "passwordHash": "$2b$12$E957smrb7..kuhP4PAjmku9IgZYppnW1fhEhZ5tfWXbRXfIH75A4u",
+    "role": "bd_executive",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:03:13.179Z",
+    "updatedAt": "2026-09-23T17:03:13.179Z"
+  },
+  {
+    "id": "USR-000004",
+    "name": "Aman Verma",
+    "email": "dev@techsolvent.com",
+    "passwordHash": "$2b$10$fXmdXWvME2V3r4/g7fTiG.t0YMc3H.8LvUwQd2WMjIZhHMGFY8xHO",
+    "role": "team_member",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:15:00.000Z",
+    "updatedAt": "2026-09-23T17:15:00.000Z"
+  },
+  {
+    "id": "USR-000005",
+    "name": "Neha Sharma",
+    "email": "hr@techsolvent.com",
+    "passwordHash": "$2b$10$35a0.Vxlgkx42eo5HzARX.950eWAnBzQvadiXe9yIGCIiR5odMa3m",
+    "role": "hr",
+    "isActive": true,
+    "createdAt": "2026-09-23T17:15:00.000Z",
+    "updatedAt": "2026-09-23T17:15:00.000Z"
+  },
+  {
+    "name": "Astitva Pathak",
+    "email": "astitvapathak2711@gmail.com",
+    "passwordHash": "$2b$12$SIB9AJSmVOJ4WfnB9MTXNeVovj60K/RW4Wwu/oYf6c5o9vHIm5U5i",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000006",
+    "createdAt": "2026-10-10T12:05:59.790Z",
+    "updatedAt": "2026-10-10T12:15:36.339Z"
+  },
+  {
+    "name": "Abhishek",
+    "email": "abhishekm@techsolvent.in",
+    "passwordHash": "$2b$12$J73cw7WfRspqkfY1U6MySum68Q6MMFCm3j2cR1CKSHMCZ1H7NhLxO",
+    "role": "super_admin",
+    "isActive": true,
+    "id": "USR-000007",
+    "createdAt": "2026-10-12T16:09:29.124Z",
+    "updatedAt": "2026-10-28T14:22:57.161Z"
+  },
+  {
+    "name": "Ayush Dewangan",
+    "email": "ayush1409dewangan@gmail.com",
+    "passwordHash": "$2b$12$Eny9Fw4IPzMhvWpz3nz2OuynRvB2Ym6Y5xlFiW.Upy0Em6IQGGdV6",
+    "role": "project_manager",
+    "isActive": true,
+    "id": "USR-000008",
+    "createdAt": "2026-10-26T08:22:18.201Z",
+    "updatedAt": "2026-10-26T08:22:18.201Z"
+  },
+  {
+    "name": "Ashish Swami",
+    "email": "ashish@techsolvent.in",
+    "passwordHash": "$2b$12$igwgpAcJorG.Z9zKdwpeeuc1O6FEFBnk5U2h.TN4SQOzB0rEfJRWS",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000009",
+    "createdAt": "2026-10-28T05:19:15.922Z",
+    "updatedAt": "2026-10-28T05:19:15.922Z"
+  },
+  {
+    "name": "Devanshi Gosh",
+    "email": "devanshi@techsolvent.in",
+    "passwordHash": "$2b$12$8jANraTHP90BxFP37oyhcOlW8Ubyvrjr5MBwpzkxs7EMg0Nncd2WO",
+    "role": "project_manager",
+    "isActive": true,
+    "id": "USR-000010",
+    "createdAt": "2026-10-28T05:20:44.969Z",
+    "updatedAt": "2026-10-28T05:20:44.969Z"
+  },
+  {
+    "name": "Vedant Shinde",
+    "email": "vedant@techsolvent.in",
+    "passwordHash": "$2b$12$CrMhQU.y.1VO.nTF4t3/ee9cmsrQ5qkiT4uyvmkCs5u2NiE.JCcGG",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000011",
+    "createdAt": "2026-10-28T05:21:33.344Z",
+    "updatedAt": "2026-10-28T05:21:33.344Z"
+  },
+  {
+    "name": "Laxmi Verkhade",
+    "email": "laxmi@techsolvent.in",
+    "passwordHash": "$2b$12$bJapfBnDl3jgQndDkHbFyu2UpQ134hHokmi/YLnnA2TTr0T6B1jRu",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000012",
+    "createdAt": "2026-10-28T05:24:18.567Z",
+    "updatedAt": "2026-10-28T05:24:18.567Z"
+  },
+  {
+    "name": "Tushar Verma",
+    "email": "tushar.v@techsolvent.in",
+    "passwordHash": "$2b$12$lt1NlAz6gInkotvJtOLzCeJAekLImKjc06NJnM1SFIxcmREamBYc2",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000013",
+    "createdAt": "2026-10-28T05:25:12.666Z",
+    "updatedAt": "2026-10-28T05:25:12.666Z"
+  },
+  {
+    "name": "Nikhil Patidar",
+    "email": "nikhil@techsolvent.in",
+    "passwordHash": "$2b$12$pehUFRB9DB47DyJwuEU4x.fHbLJhkrHAQKuxzSlxkF4YKtexMt.1q",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000014",
+    "createdAt": "2026-10-28T06:47:05.118Z",
+    "updatedAt": "2026-10-28T06:47:05.118Z"
+  },
+  {
+    "name": "Manjari Jain",
+    "email": "jainmanjari25@gmail.com",
+    "passwordHash": "$2b$12$RNGqh5LEncWiTD7Ik.DIE.S6DciLwNN521H93i5btj6J0uFrs1UJG",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000015",
+    "createdAt": "2026-10-28T07:15:23.027Z",
+    "updatedAt": "2026-11-04T11:18:28.387Z"
+  },
+  {
+    "name": "Yash Sen",
+    "email": "seny90141@gmail.com",
+    "passwordHash": "$2b$12$Toe.ZNFDCGXEYN5f5bAKgeBzga57xZzKTEoWg3SRfxrIuWJOQdhqe",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000016",
+    "createdAt": "2026-10-28T10:39:43.845Z",
+    "updatedAt": "2026-10-28T10:39:43.845Z"
+  },
+  {
+    "name": "Manjari Jain",
+    "email": "jainmanjari225@gmail.com",
+    "passwordHash": "$2b$12$soTBf6QAXRx4yPm1afBHs.71csEMRcaBwCUPllLAUoZ6kCf7ysV/O",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000017",
+    "createdAt": "2026-11-03T07:32:11.404Z",
+    "updatedAt": "2026-11-04T11:15:29.722Z"
+  },
+  {
+    "name": "Manjari Jain",
+    "email": "manjari@techsolvent.in",
+    "passwordHash": "$2b$12$rzv6Z.bo.YoZ3feY.eV5FOgH4GXjfXhSYRs05uPlm7cC03YKi7eaW",
+    "role": "team_member",
+    "isActive": true,
+    "id": "USR-000018",
+    "createdAt": "2026-11-04T11:19:22.823Z",
+    "updatedAt": "2026-11-04T11:19:22.823Z"
+  }
+]

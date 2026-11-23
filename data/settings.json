@@ -10,6 +10,24 @@
     "lateLoginThresholdMinutes": 30,
     "id": "SETTINGS",
     "createdAt": "2026-09-23T17:03:13.215Z",
-    "updatedAt": "2026-09-23T17:03:13.215Z"
+    "updatedAt": "2026-10-28T06:11:11.321Z",
+    "agencyName": "TECHSOLVENT ",
+    "tagline": "Digital Marketing Consultant",
+    "email": "info@techsolvent.in",
+    "phone": "+91 7400557704",
+    "address": "Office No. 229, Zodiac Mall, Opp. Agarwal Public School, Sampat Farms, Pipliyahana, Indore, Madhya Pradesh 452016",
+    "gstin": "23CDHPM62931ZJ",
+    "workStartTime": "10:00",
+    "workEndTime": "19:00",
+    "gracePeriodMins": 15,
+    "halfDayHours": 4,
+    "defaultInvoiceDueDays": 5,
+    "defaultTaxRate": 18,
+    "bankName": "Bank of baroda",
+    "bankAccount": "57680400000146",
+    "bankIfsc": "BARB0PIPIND",
+    "smtpHost": "smtp.gmail.com",
+    "smtpPort": 587,
+    "smtpUser": "notifications@techsolvent.com"
   }
 ]

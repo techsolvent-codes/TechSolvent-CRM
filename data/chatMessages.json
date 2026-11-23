@@ -157,5 +157,132 @@
     "id": "MSG-000013",
     "createdAt": "2026-10-12T16:11:15.313Z",
     "updatedAt": "2026-10-12T16:11:15.313Z"
+  },
+  {
+    "groupId": "GRP-000001",
+    "senderId": "EMP-000013",
+    "senderName": "Tushar Verma",
+    "senderPhoto": null,
+    "message": "Yes",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000014",
+    "createdAt": "2026-10-28T06:32:56.976Z",
+    "updatedAt": "2026-10-28T06:32:56.976Z"
+  },
+  {
+    "groupId": "GRP-000001",
+    "senderId": "EMP-000013",
+    "senderName": "Tushar Verma",
+    "senderPhoto": null,
+    "message": "Good morning",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000015",
+    "createdAt": "2026-10-28T06:33:04.649Z",
+    "updatedAt": "2026-10-28T06:33:04.649Z"
+  },
+  {
+    "groupId": "GRP-000006",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "Working?",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000016",
+    "createdAt": "2026-10-28T12:04:12.548Z",
+    "updatedAt": "2026-10-28T12:04:12.548Z"
+  },
+  {
+    "groupId": "GRP-000006",
+    "senderId": "EMP-000010",
+    "senderName": "Devanshi Gosh",
+    "senderPhoto": null,
+    "message": "yes",
+    "messageType": "text",
+    "parentMessageId": null,
+    "fileUrl": null,
+    "id": "MSG-000017",
+    "createdAt": "2026-10-29T07:15:03.144Z",
+    "updatedAt": "2026-10-29T07:15:03.144Z"
+  },
+  {
+    "conversationId": "DM-000003",
+    "senderId": "EMP-000014",
+    "senderName": "Nikhil Patidar",
+    "senderPhoto": null,
+    "message": "hi tushar",
+    "messageType": "text",
+    "id": "MSG-000018",
+    "createdAt": "2026-11-03T07:48:37.787Z",
+    "updatedAt": "2026-11-03T07:48:37.787Z"
+  },
+  {
+    "conversationId": "DM-000004",
+    "senderId": "EMP-000001",
+    "senderName": "Super Admin",
+    "message": "Hello",
+    "messageType": "text",
+    "id": "MSG-000019",
+    "createdAt": "2026-11-03T07:49:30.611Z",
+    "updatedAt": "2026-11-03T07:49:30.611Z"
+  },
+  {
+    "conversationId": "DM-000003",
+    "senderId": "EMP-000014",
+    "senderName": "Nikhil Patidar",
+    "senderPhoto": null,
+    "message": "hello",
+    "messageType": "text",
+    "id": "MSG-000020",
+    "createdAt": "2026-11-03T07:50:24.059Z",
+    "updatedAt": "2026-11-03T07:50:24.059Z"
+  },
+  {
+    "conversationId": "DM-000003",
+    "senderId": "EMP-000013",
+    "senderName": "Tushar Verma",
+    "senderPhoto": null,
+    "message": "Hello",
+    "messageType": "text",
+    "id": "MSG-000021",
+    "createdAt": "2026-11-03T07:55:48.529Z",
+    "updatedAt": "2026-11-03T07:55:48.529Z"
+  },
+  {
+    "conversationId": "DM-000003",
+    "senderId": "EMP-000014",
+    "senderName": "Nikhil Patidar",
+    "senderPhoto": null,
+    "message": "is there any update",
+    "messageType": "text",
+    "id": "MSG-000022",
+    "createdAt": "2026-11-03T07:56:08.417Z",
+    "updatedAt": "2026-11-03T07:56:08.417Z"
+  },
+  {
+    "conversationId": "DM-000003",
+    "senderId": "EMP-000013",
+    "senderName": "Tushar Verma",
+    "senderPhoto": null,
+    "message": "Yes",
+    "messageType": "text",
+    "id": "MSG-000023",
+    "createdAt": "2026-11-03T07:56:50.307Z",
+    "updatedAt": "2026-11-03T07:56:50.307Z"
+  },
+  {
+    "conversationId": "DM-000003",
+    "senderId": "EMP-000013",
+    "senderName": "Tushar Verma",
+    "senderPhoto": null,
+    "message": "Tell me.",
+    "messageType": "text",
+    "id": "MSG-000024",
+    "createdAt": "2026-11-03T07:56:52.601Z",
+    "updatedAt": "2026-11-03T07:56:52.601Z"
   }
 ]

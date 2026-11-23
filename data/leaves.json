@@ -10,9 +10,13 @@
     "isHalfDay": false,
     "halfDayType": null,
     "reason": "Family vacation and travel during festive holiday.",
-    "status": "pending",
+    "status": "rejected",
     "createdAt": "2026-09-20T10:00:00.000Z",
-    "updatedAt": "2026-09-20T10:00:00.000Z"
+    "updatedAt": "2026-10-28T06:49:46.433Z",
+    "decidedBy": "USR-000001",
+    "decidedByName": "Super Admin",
+    "decidedAt": "2026-10-28T06:49:46.432Z",
+    "remarks": ""
   },
   {
     "id": "LVE-000002",
@@ -43,5 +47,28 @@
     "status": "approved",
     "createdAt": "2026-09-07T11:00:00.000Z",
     "updatedAt": "2026-09-07T14:00:00.000Z"
+  },
+  {
+    "employeeId": "EMP-000008",
+    "employeeName": "Ayush Dewangan",
+    "type": "compensatory",
+    "leaveType": "compensatory",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-27",
+    "halfDay": false,
+    "isHalfDay": false,
+    "halfDayType": null,
+    "days": 2,
+    "daysCount": 2,
+    "reason": "fffff",
+    "status": "approved",
+    "appliedAt": "2026-10-26T08:36:31.507Z",
+    "id": "LVE-000004",
+    "createdAt": "2026-10-26T08:36:31.507Z",
+    "updatedAt": "2026-10-26T08:36:51.916Z",
+    "decidedBy": "USR-000001",
+    "decidedByName": "Super Admin",
+    "decidedAt": "2026-10-26T08:36:51.915Z",
+    "remarks": ""
   }
 ]

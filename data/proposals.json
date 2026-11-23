@@ -61,5 +61,20 @@
     "sentAt": "2026-10-12T16:01:45.132Z",
     "sentBy": "USR-000001",
     "acceptedAt": "2026-10-12T16:02:01.902Z"
+  },
+  {
+    "title": "Graphics Design",
+    "items": [],
+    "validUntil": "2026-10-28",
+    "status": "accepted",
+    "createdBy": "USR-000008",
+    "createdByName": "Ayush Dewangan",
+    "versionHistory": [],
+    "id": "PROP-000005",
+    "createdAt": "2026-10-26T08:27:19.502Z",
+    "updatedAt": "2026-10-26T08:28:16.496Z",
+    "sentAt": "2026-10-26T08:27:46.704Z",
+    "sentBy": "USR-000008",
+    "acceptedAt": "2026-10-26T08:28:16.496Z"
   }
 ]
